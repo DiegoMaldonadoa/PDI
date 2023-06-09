@@ -45,6 +45,32 @@ Dataset with all the combinations of generated data:
 - train4clases_500samples
 - train4clases_700samples
 
+
+5)"Fronteras.mlx" 
+Algorithm for generating the separation boundaries of the data groups.
+
+6)"generacion2clases.m" 
+Function for data generation with 2 classes
+
+7)"generacion4clases.m" 
+Function for data generation with 4 classes
+
+8)"GraficaDataset.mlx" 
+Function to generate graphs of the dataset
+
+9)"Prueba.mat" 
+Dataset with all the combinations of generated data for Test.
+
+- test4clases
+- test2clases_media
+- test2clases_lejos
+- test2clases_cerca
+- test2clases
+- Frontera_2clases
+- Frontera2_clase4
+- Frontera1_clase4
+
+
 **** Formats
     - All the files are in Matlab (.m, .mlx) file format
 
