@@ -1,7 +1,0 @@
-echo "# PDI" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DiegoMaldonadoa/PDI.git
-git push -u origin main
